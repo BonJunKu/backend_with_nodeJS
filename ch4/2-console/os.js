@@ -1,3 +1,6 @@
 const os = require('os');
+const fs = require('fs');
 
-console.log(os.EOL==='\r\n');
+fs.createReadStream();
+
+console.log(os.EOL === '\r\n');
